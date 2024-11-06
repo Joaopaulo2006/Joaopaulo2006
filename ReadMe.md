@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Programador Full Stack junior;<br>👯 Técnico em Informática (IFCE) e fazendo um Curso Full Stack (Digital College FSL);<br>⚡ Linguagens intermediário:<br>           Front-End: HTML, CSS, SCSS;<br>           Beck-End: JAVA SCRIPT, JSON, SQL;<br>📚 Aprendendo:<br>           TYPESCRIPT; <br>           PYTHON; <br>           C#;<br>          
+🔭 Programador Full Stack junior;<br>👯 Técnico em Informática (IFCE) e Cursando o Full Stack (Digital College FSL);<br>⚡ Linguagens intermediário:<br>           Front-End: HTML, CSS, SCSS;<br>           Beck-End: JAVA SCRIPT, JSON, SQL;<br>📚 Aprendendo:<br>           TYPESCRIPT; <br>           PYTHON; <br>           C#;<br>          
 
 
 ## 🌐 Socials:
